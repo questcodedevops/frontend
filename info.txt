@@ -1,0 +1,9 @@
+#DataBase
+mongodb+srv://dbuser18:4W3deTzw0cqdOtgb@cluster0-bbqgh.mongodb.net/test?retryWrites=true&w=majority
+
+GIT
+Client ID
+80f22a1f8d76ea1a4c3c
+Client Secret
+797a531f1441f9f8cf758d31627aff527247044b
+
